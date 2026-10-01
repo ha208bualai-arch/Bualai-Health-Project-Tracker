@@ -1,0 +1,6 @@
+{
+  "name": "Bualai Health Project Tracker & LINE OA Alert System",
+  "description": "ระบบติดตามแผนปฏิบัติการโครงการสาธารณสุข โรงพยาบาลบัวลาย และ คปสอ. บัวลาย พร้อมระบบแจ้งเตือนเรียลไทม์และ LINE OA อัจฉริยะสำหรับผู้บริหารและผู้รับผิดชอบโครงการ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
